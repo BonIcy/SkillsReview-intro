@@ -4,4 +4,5 @@ ejecutan?
 A. De izquierda a derecha
 B. De derecha a izquierda """
 
-p
+print("Answer= A.De izquierda a derecha")
+print(2*3*4/2/1)

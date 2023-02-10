@@ -5,4 +5,4 @@ A. De izquierda a derecha
 B. De derecha a izquierda """
 
 print("Answer= A.De izquierda a derecha")
-print(2*3*4/2/1)
+print("\t 2*3*4/2/1", "=", 2*3*4/2/1)

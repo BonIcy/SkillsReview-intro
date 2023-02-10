@@ -5,10 +5,14 @@ son los siguientes:
 *Nombre * Teléfono *Año de ingreso a la empresa
 *Apellidos *Edad. """
 
-nombre = str(imput("Coloca tu nombre"))
+""" nombre = str(imput("Coloca tu nombre"))
 apellidos = str(imput("Coloca tus apellidos"))
 edad = str(imput("¿Cual es tu edad(Pon solo el numero)?"))
 telefono = str(input("Pon tu número de telefono celular o fijo"))
 añoDeIngreso = str(input("Escribe el año en que ingresaste a la empresa"))
 
-print("Tu nombre completo es=" nombre + apellidos, "\n Tu año de ingreso fue en el año" + añoDeIngreso)
+print("Tu nombre completo es=", nombre + apellidos, "\n Tu año de ingreso fue en el año", + añoDeIngreso)
+ """
+
+
+  """ pd: lo  comento porque está en progreso """

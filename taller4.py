@@ -1,2 +1,2 @@
 """ 4. Que son las expresiones regulares en Python? """
-print("Son los siguientes: . ^ $ * + ? { } [ ] \ | ( ); y sirven para hacer coincidir combinaciones de caracteres que estan en cadenas mediante patrones")
+print("Son los siguientes: \n \t. ^ $ * + ? { } [ ] \ | ( )  \n \t\t Sirven para hacer coincidir combinaciones de caracteres que estan en cadenas mediante patrones")
